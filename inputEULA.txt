@@ -1,10 +1,10 @@
 Sample EULA Template
 
-End-User License Agreement ("Agreement")
+End-User License Agreement \("Agreement"\)
 
-Our EULA was last updated on 08/07/2023
+Our EULA was last updated on 08\/07\/2023
 
-Please read this End-User License Agreement carefully before clicking the "I Agree" button, downloading or
+Please read this End-User License Agreement carefully before Accpeting, downloading or
 
 using DASH CLI 5.0.
 
@@ -30,15 +30,15 @@ TermsFeed EULA Generator.
 
 > "Application" means the software program provided by the Company downloaded by You through
 
-an Application Store's account to a Device, named DASH CLI 5.0
+an Application Store\'s account to a Device, named DASH CLI 5.0
 
 > "Application Store" means the digital distribution service operated and developed by Apple Inc.
 
-(Apple App Store) or Google Inc. (Google Play Store) by which the Application has been
+\(Apple App Store\) or Google Inc. \(Google Play Store\) by which the Application has been
 
 downloaded to your Device.
 
-> "Company" (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to
+> "Company" \(referred to as either "the Company", "We", "Us" or "Our" in this Agreement\) refers to
 
 AMD pvt ltd
 
@@ -52,15 +52,15 @@ linked to or otherwise made available by You, regardless of the form of that con
 
 digital tablet.
 
-> "Family Sharing / Family Group" permits You to share applications downloaded through the
+> "Family Sharing \/ Family Group" permits You to share applications downloaded through the
 
-Application Store with other family members by allowing them to view and download each others'
+Application Store with other family members by allowing them to view and download each others\'
 
 eligible Applications to their associated Devices.
 
-> "Third-Party Services" means any services or content (including data, information, applications
+> "Third-Party Services" means any services or content \(including data, information, applications
 
-and other products services) provided by a third-party that may be displayed, included or made
+and other products services\) provided by a third-party that may be displayed, included or made
 
 available by the Application.
 
@@ -88,7 +88,7 @@ party to this Agreement, it has the right to enforce it against You as a third p
 
 use of the Application.
 
-Since the Application can be accessed and used by other users via, for example, Family Sharing / Family
+Since the Application can be accessed and used by other users via, for example, Family Sharing \/ Family
 
 Group or volume purchasing, the use of the Application by those users is expressly subject to this
 
@@ -108,7 +108,7 @@ and use the Application strictly in accordance with the terms of this Agreement.
 
 You may only use the Application on a Device that You own or control and as permitted by the Application
 
-Store's terms and conditions.
+Store\'s terms and conditions.
 
 The license that is granted to You by the Company is solely for your personal, non-commercial purposes
 
@@ -122,7 +122,7 @@ You agree not to, and You will not permit others to:
 
 commercially exploit the Application or make the Application available to any third party.
 
-> Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of
+> Remove, alter or obscure any proprietary notice \(including any notice of copyright or trademark\) of
 
 the Company or its affiliates, partners, suppliers or the licensors of the Application.
 
@@ -150,19 +150,19 @@ Application or any service to which it connects, with or without notice and with
 
 Updates to the Application
 
-The Company may from time to time provide enhancements or improvements to the features/functionality
+The Company may from time to time provide enhancements or improvements to the features\/functionality
 
 of the Application, which may include patches, bug fixes, updates, upgrades and other modifications.
 
-Updates may modify or delete certain features and/or functionalities of the Application. You agree that the
+Updates may modify or delete certain features and\/or functionalities of the Application. You agree that the
 
-Company has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular
+Company has no obligation to \(i\) provide any Updates, or \(ii\) continue to provide or enable any particular
 
-features and/or functionalities of the Application to You.
+features and\/or functionalities of the Application to You.
 
-You further agree that all updates or any other modifications will be (i) deemed to constitute an integral part
+You further agree that all updates or any other modifications will be \(i\) deemed to constitute an integral part
 
-of the Application, and (ii) subject to the terms and conditions of this Agreement.
+of the Application, and \(ii\) subject to the terms and conditions of this Agreement.
 
 Maintenance and Support
 
@@ -174,9 +174,9 @@ Application Store, shall be obligated to furnish any such maintenance or support
 
 Third-Party Services
 
-The Application may display, include or make available third-party content (including data, information,
+The Application may display, include or make available third-party content \(including data, information,
 
-applications and other products services) or provide links to third-party websites or services.
+applications and other products services\) or provide links to third-party websites or services.
 
 You acknowledge and agree that the Company shall not be responsible for any Third-party Services,
 
@@ -186,11 +186,11 @@ or any other aspect thereof. The Company does not assume and shall not have any 
 
 to You or any other person or entity for any Third-party Services.
 
-You must comply with applicable Third parties' Terms of agreement when using the Application. Third-party
+You must comply with applicable Third parties\' Terms of agreement when using the Application. Third-party
 
 Services and links thereto are provided solely as a convenience to You and You access and use them
 
-entirely at your own risk and subject to such third parties' Terms and conditions.
+entirely at your own risk and subject to such third parties\' Terms and conditions.
 
 Term and Termination
 
@@ -210,9 +210,9 @@ Upon termination of this Agreement, You shall cease all use of the Application a
 
 Application from your Device.
 
-Termination of this Agreement will not limit any of the Company's rights or remedies at law or in equity in
+Termination of this Agreement will not limit any of the Company\'s rights or remedies at law or in equity in
 
-case of breach by You (during the term of this Agreement) of any of your obligations under the present
+case of breach by You \(during the term of this Agreement\) of any of your obligations under the present
 
 Agreement.
 
@@ -220,11 +220,11 @@ Indemnification
 
 You agree to indemnify and hold the Company and its parents, subsidiaries, affiliates, officers, employees,
 
-agents, partners and licensors (if any) harmless from any claim or demand, including reasonable attorneys'
+agents, partners and licensors \(if any\) harmless from any claim or demand, including reasonable attorneys\'
 
-fees, due to or arising out of your: (a) use of the Application; (b) violation of this Agreement or any law or
+fees, due to or arising out of your: \(a\) use of the Application; \(b\) violation of this Agreement or any law or
 
-regulation; or (c) violation of any right of a third party.
+regulation; or \(c\) violation of any right of a third party.
 
 No Warranties
 
@@ -250,15 +250,15 @@ interruption, meet any performance or reliability standards or be error free or 
 
 or will be corrected.
 
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any
+Without limiting the foregoing, neither the Company nor any of the company\'s provider makes any
 
-representation or warranty of any kind, express or implied: (i) as to the operation or availability of the
+representation or warranty of any kind, express or implied: \(i\) as to the operation or availability of the
 
-Application, or the information, content, and materials or products included thereon; (ii) that the Application
+Application, or the information, content, and materials or products included thereon; \(ii\) that the Application
 
-will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or
+will be uninterrupted or error-free; \(iii\) as to the accuracy, reliability, or currency of any information or
 
-content provided through the Application; or (iv) that the Application, its servers, the content, or e-mails sent
+content provided through the Application; or \(iv\) that the Application, its servers, the content, or e-mails sent
 
 from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or
 
@@ -282,23 +282,23 @@ suppliers under any provision of this Agreement and your exclusive remedy for al
 
 limited to the amount actually paid by You for the Application or through the Application or 100 USD if You
 
-haven't purchased anything through the Application.
+haven\'t purchased anything through the Application.
 
 To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable
 
-for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to,
+for any special, incidental, indirect, or consequential damages whatsoever \(including, but not limited to,
 
 damages for loss of profits, loss of data or other information, for business interruption, for personal injury,
 
 loss of privacy arising out of or in any way related to the use of or inability to use the Application, third-party
 
-software and/or third-party hardware used with the Application, or otherwise in connection with any
+software and\/or third-party hardware used with the Application, or otherwise in connection with any
 
-provision of this Agreement), even if the Company or any supplier has been advised of the possibility of
+provision of this Agreement\), even if the Company or any supplier has been advised of the possibility of
 
 such damages and even if the remedy fails of its essential purpose.
 
-Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so
+Some states\/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so
 
 the above limitation or exclusion may not apply to You.
 
@@ -326,7 +326,7 @@ Waiver
 
 Except as provided herein, the failure to exercise a right or to require performance of an obligation under
 
-this Agreement shall not effect a party's ability to exercise such right or require such performance at any
+this Agreement shall not effect a party\'s ability to exercise such right or require such performance at any
 
 time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
 
@@ -336,19 +336,19 @@ The Company does not make any warranties concerning the Application. To the exte
 
 arising from or relating to your use of the Application, the Company, not the Application Store, is
 
-responsible for addressing any such claims, which may include, but not limited to: (i) any product liability
+responsible for addressing any such claims, which may include, but not limited to: \(i\) any product liability
 
-claims; (ii) any claim that the Application fails to conform to any applicable legal or regulatory requirement;
+claims; \(ii\) any claim that the Application fails to conform to any applicable legal or regulatory requirement;
 
-and (iii) any claim arising under consumer protection, or similar legislation.
+and \(iii\) any claim arising under consumer protection, or similar legislation.
 
 United States Legal Compliance
 
-You represent and warrant that (i) You are not located in a country that is subject to the United States
+You represent and warrant that \(i\) You are not located in a country that is subject to the United States
 
 government embargo, or that has been designated by the United States government as a "terrorist
 
-supporting" country, and (ii) You are not listed on any United States government list of prohibited or
+supporting" country, and \(ii\) You are not listed on any United States government list of prohibited or
 
 restricted parties.
 
@@ -356,7 +356,7 @@ Changes to this Agreement
 
 The Company reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a
 
-revision is material we will provide at least 30 days' notice prior to any new terms taking effect. What
+revision is material we will provide at least 30 days\' notice prior to any new terms taking effect. What
 
 constitutes a material change will be determined at the sole discretion of the Company.
 
@@ -384,7 +384,7 @@ the Company.
 
 You may be subject to additional terms and conditions that apply when You use or purchase other
 
-Company's services, which the Company will provide to You at the time of such use or purchase.
+Company\'s services, which the Company will provide to You at the time of such use or purchase.
 
 Contact Us
 
