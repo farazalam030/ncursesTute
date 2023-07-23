@@ -53,15 +53,15 @@ int main (int argc, char** argv){
     choice = getch();
     if (choice == 'Y' || choice == 'y') {
       clear();
-      mvprintw(5, 5, "Installation Started ... ");
-      getch();
+      //   mvprintw(5, 5, "Installation Started ... ");
+      //   getch();
       endwin();
       return 0;
 
     } else {
       clear();
-      mvprintw(5, 5, "Installation Aborted ... ");
-      getch();
+      //   mvprintw(5, 5, "Installation Aborted ... ");
+      //   getch();
       endwin();
       return -1;
     }
