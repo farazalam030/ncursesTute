@@ -1,11 +1,11 @@
 #include <curses.h>
 #include <fstream>
 #include <string>
-using namespace std;
+// using namespace std;
 int main (int argc, char** argv){
 
-  fstream iFile;
-  iFile.open("inputEULA.txt", ios::in);
+  std::fstream iFile;
+  iFile.open("inputEULA.txt", std::ios::in);
   //   start_ncurses(true, true);
   initscr(); // initialises screen sets up memory and clear screen
 
@@ -35,21 +35,22 @@ int main (int argc, char** argv){
   char choice;
   //   attron(COLOR_PAIR(1));
   if (iFile.is_open()) {
-    string data;
+    std::string data;
     int count = 0;
     while (getline(iFile, data)) {
 
-      mvprintw(count, 5, data.c_str());
+      mvprintw(count, 0, "%s", data.c_str());
 
       count++;
 
-      if (count == 18) {
-        mvprintw(20, 5, "Press any key to read ahead");
+      if (count == 30) {
+        mvprintw(31, 0, "Press any key to read ahead");
         getch();
+        clear();
         count = 0;
       }
     }
-    mvprintw(20, 5, "Do you Accept the License? Y/N");
+    mvprintw(31, 0, "Do you Accept the License? Y/N");
     choice = getch();
     if (choice == 'Y' || choice == 'y') {
       clear();

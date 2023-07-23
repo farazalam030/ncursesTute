@@ -1,5 +1,5 @@
 #include <curses.h>
-using namespace std;
+// using namespace std;
 int main (int argc, char** argv){
 
 	initscr(); //initialises screen sets up memory and clear screen
