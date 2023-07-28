@@ -7,6 +7,7 @@ Build-Depends: debhelper (>= 9)
 
 Package: hithere
 Architecture: any
+Pre-Depends: debconf (>=0.2.26)
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: greet user
  hithere greets the user, or the world.

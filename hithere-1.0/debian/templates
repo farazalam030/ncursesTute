@@ -1,0 +1,14 @@
+Template: hithere/LicensePrompt
+Type: boolean
+Description: Do you want to read License Terms?
+	We'd like to know if you want to read full license.
+
+Template: hithere/Approval
+Type: boolean
+Description: Do you want to install DASH CLI?
+	Asking User's Acceptance of License terms and Install it
+
+Template: hithere/Why_necessary
+Type: note
+Description: License Accepting is important
+	Accept License Warna
